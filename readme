@@ -1,0 +1,11 @@
+This is a personal practice project building my own Nginx server with NodeJS
+There are 3 dummy html files for different page url testing
+-does not require any additional live module
+-utilise server port through localhost
+
+
+How to run
+-make sure nodejs is installed
+-cd to the file location
+-run the server by following command in terminal
+    node server.js
